@@ -23,4 +23,4 @@ Finally, it saves the tidy data as a separate text file, "tidy_data.txt"
 dplyr
 
 ## CodeBook.md
-Here you will find an explanation of the data collected, along with a summary explaining all variable names and abbreviations used.
+Here you will find an explanation of the data collected with all variable names and abbreviations used.
